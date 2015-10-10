@@ -1,0 +1,23 @@
+{
+  "name": "vpm-rc",
+  "description": "",
+  "main": "app.js",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gavinning/vpm-rc.git"
+  },
+  "keywords": [
+    "vpm-rc"
+  ],
+  "author": "gavinning",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/gavinning/vpm-rc/issues"
+  },
+  "homepage": "https://github.com/gavinning/vpm-rc",
+  "dependencies": {
+    "aimee-class": "^1.0.2",
+    "ini": "^1.3.4"
+  }
+}
